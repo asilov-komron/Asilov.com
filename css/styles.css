@@ -3384,6 +3384,13 @@ td:last-child {
 /* --------------------------------------------------------------------
  * ## intro content
  * -------------------------------------------------------------------- */
+ 
+ .row.s-intro__content.width-sixteen-col{
+    margin-top: -150px;
+   
+ }
+
+
 .s-intro__content {
     z-index       : 2;
     align-items   : flex-end;
