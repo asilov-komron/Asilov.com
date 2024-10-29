@@ -3997,7 +3997,7 @@ td:last-child {
  * responsive:
  * works
  * ------------------------------------------------------------------- */
-@media screen and (max-width: 1050px) {
+@media screen and (max-width: 1150px) {
     
 .project-container{
     width: 700px;
